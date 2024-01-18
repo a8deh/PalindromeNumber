@@ -6,4 +6,5 @@ class Solution:
         return True
       else:
         return False
-print(Solution().isPalindrome(133))
+print(Solution().isPalindrome(133)) # false
+print(Solution().isPalindrome(333)) # true
